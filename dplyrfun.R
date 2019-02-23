@@ -57,5 +57,6 @@ head(gdp_pop_summary)
 # new section -------------------------------------------------------------
 # 
 # now we are in this new  section and can run this region seperately  
-#
+# describe data set so people can use it and so you can too 
+# go through and really document what it means 
 
